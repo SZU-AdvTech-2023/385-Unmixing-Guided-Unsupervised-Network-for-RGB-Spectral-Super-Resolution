@@ -1,0 +1,9 @@
+@article{REPO385,
+    author = "Qu, Qiaoying and Pan, Bin and Xu, Xia and Li, Tao and Shi, Zhenwei",
+    journal = "IEEE Transactions on Image Processing",
+    number = "",
+    pages = "4856-4867",
+    title = "{Unmixing Guided Unsupervised Network for RGB Spectral Super-Resolution}",
+    volume = "32",
+    year = "2023"
+}
